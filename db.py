@@ -40,16 +40,18 @@ def db_bind():
 
 
 @orm.db_session
-def update_sales_figure(year, month, make, model, sold, source):
+def update_sales_figure(year, month, make, model, sold, source, update):
     sf = select(s for s in SalesFigure if (s.make == make) and\
                                           (s.model == model) and\
                                           (s.year == year) and\
                                           (s.month == month) and\
                                           (s.source == source)).first()
-    if sf:
-        print('Updating dales figure to {}'.format(sold))
+    if sf and update:
         sf.cars_sold = sold
+        added = False
+        print('Updated record for', model, make, year, month)
     else:
-        print('Creating new sales figure')
         SalesFigure.from_data(year, month, make, model, sold, source)
+        added = True
     orm.commit()
+    return True, added
