@@ -28,6 +28,11 @@ cars = {
     'Smart ED': ('Smart', 'ED'),
 }
 
+# Sources
+# InsideEVs.com 2017: https://insideevs.com/ev-sales-rise-december-tesla-leading/
+# EVobsession.com 2017: https://evobsession.com/2017-electric-car-sales-us-china-europe-month-month/
+
+
 
 def get_source(filename):
     if 'EV_Obs' in filename:

@@ -1,0 +1,727 @@
+year,month,make,model,sold,source
+2016,1,BMW,i3,182,http://evobsession.com
+2016,2,BMW,i3,248,http://evobsession.com
+2016,3,BMW,i3,332,http://evobsession.com
+2016,4,BMW,i3,814,http://evobsession.com
+2016,5,BMW,i3,696,http://evobsession.com
+2016,6,BMW,i3,608,http://evobsession.com
+2016,7,BMW,i3,1479,http://evobsession.com
+2016,8,BMW,i3,1013,http://evobsession.com
+2016,9,BMW,i3,391,http://evobsession.com
+2016,10,BMW,i3,442,http://evobsession.com
+2016,11,BMW,i3,629,http://evobsession.com
+2016,12,BMW,i3,791,http://evobsession.com
+2016,1,BMW,i8,32,http://evobsession.com
+2016,2,BMW,i8,54,http://evobsession.com
+2016,3,BMW,i8,89,http://evobsession.com
+2016,4,BMW,i8,130,http://evobsession.com
+2016,5,BMW,i8,146,http://evobsession.com
+2016,6,BMW,i8,169,http://evobsession.com
+2016,7,BMW,i8,166,http://evobsession.com
+2016,8,BMW,i8,145,http://evobsession.com
+2016,9,BMW,i8,158,http://evobsession.com
+2016,10,BMW,i8,199,http://evobsession.com
+2016,11,BMW,i8,173,http://evobsession.com
+2016,12,BMW,i8,133,http://evobsession.com
+2016,12,Chevrolet,Bolt,579,http://evobsession.com
+2016,1,Chevrolet,Spark,139,http://evobsession.com
+2016,2,Chevrolet,Spark,216,http://evobsession.com
+2016,3,Chevrolet,Spark,252,http://evobsession.com
+2016,4,Chevrolet,Spark,419,http://evobsession.com
+2016,5,Chevrolet,Spark,394,http://evobsession.com
+2016,6,Chevrolet,Spark,359,http://evobsession.com
+2016,7,Chevrolet,Spark,333,http://evobsession.com
+2016,8,Chevrolet,Spark,292,http://evobsession.com
+2016,9,Chevrolet,Spark,315,http://evobsession.com
+2016,10,Chevrolet,Spark,260,http://evobsession.com
+2016,11,Chevrolet,Spark,39,http://evobsession.com
+2016,12,Chevrolet,Spark,17,http://evobsession.com
+2016,1,Ford,Focus,66,http://evobsession.com
+2016,2,Ford,Focus,81,http://evobsession.com
+2016,3,Ford,Focus,110,http://evobsession.com
+2016,4,Ford,Focus,81,http://evobsession.com
+2016,5,Ford,Focus,54,http://evobsession.com
+2016,6,Ford,Focus,54,http://evobsession.com
+2016,7,Ford,Focus,58,http://evobsession.com
+2016,8,Ford,Focus,75,http://evobsession.com
+2016,9,Ford,Focus,82,http://evobsession.com
+2016,10,Ford,Focus,73,http://evobsession.com
+2016,11,Ford,Focus,66,http://evobsession.com
+2016,12,Ford,Focus,101,http://evobsession.com
+2016,1,Kia,Soul,81,http://evobsession.com
+2016,2,Kia,Soul,60,http://evobsession.com
+2016,3,Kia,Soul,79,http://evobsession.com
+2016,4,Kia,Soul,139,http://evobsession.com
+2016,5,Kia,Soul,120,http://evobsession.com
+2016,6,Kia,Soul,134,http://evobsession.com
+2016,7,Kia,Soul,179,http://evobsession.com
+2016,8,Kia,Soul,153,http://evobsession.com
+2016,9,Kia,Soul,217,http://evobsession.com
+2016,10,Kia,Soul,190,http://evobsession.com
+2016,11,Kia,Soul,179,http://evobsession.com
+2016,12,Kia,Soul,197,http://evobsession.com
+2016,1,Nissan,Leaf,755,http://evobsession.com
+2016,2,Nissan,Leaf,930,http://evobsession.com
+2016,3,Nissan,Leaf,1246,http://evobsession.com
+2016,4,Nissan,Leaf,787,http://evobsession.com
+2016,5,Nissan,Leaf,979,http://evobsession.com
+2016,6,Nissan,Leaf,1096,http://evobsession.com
+2016,7,Nissan,Leaf,1063,http://evobsession.com
+2016,8,Nissan,Leaf,1066,http://evobsession.com
+2016,9,Nissan,Leaf,1316,http://evobsession.com
+2016,10,Nissan,Leaf,1412,http://evobsession.com
+2016,11,Nissan,Leaf,1457,http://evobsession.com
+2016,12,Nissan,Leaf,1899,http://evobsession.com
+2016,1,Volkswagen,e-Golf,328,http://evobsession.com
+2016,2,Volkswagen,e-Golf,198,http://evobsession.com
+2016,3,Volkswagen,e-Golf,86,http://evobsession.com
+2016,4,Volkswagen,e-Golf,326,http://evobsession.com
+2016,5,Volkswagen,e-Golf,269,http://evobsession.com
+2016,6,Volkswagen,e-Golf,248,http://evobsession.com
+2016,7,Volkswagen,e-Golf,344,http://evobsession.com
+2016,8,Volkswagen,e-Golf,454,http://evobsession.com
+2016,9,Volkswagen,e-Golf,529,http://evobsession.com
+2016,10,Volkswagen,e-Golf,407,http://evobsession.com
+2016,11,Volkswagen,e-Golf,305,http://evobsession.com
+2016,12,Volkswagen,e-Golf,443,http://evobsession.com
+2016,1,Tesla,Model S,2300,http://evobsession.com
+2016,2,Tesla,Model S,1700,http://evobsession.com
+2016,3,Tesla,Model S,2000,http://evobsession.com
+2016,4,Tesla,Model S,2300,http://evobsession.com
+2016,5,Tesla,Model S,2000,http://evobsession.com
+2016,6,Tesla,Model S,700,http://evobsession.com
+2016,7,Tesla,Model S,3000,http://evobsession.com
+2016,8,Tesla,Model S,3000,http://evobsession.com
+2016,9,Tesla,Model S,3156,http://evobsession.com
+2016,10,Tesla,Model S,2000,http://evobsession.com
+2016,11,Tesla,Model S,3000,http://evobsession.com
+2016,12,Tesla,Model S,4000,http://evobsession.com
+2016,1,Tesla,Model X,500,http://evobsession.com
+2016,2,Tesla,Model X,700,http://evobsession.com
+2016,3,Tesla,Model X,1200,http://evobsession.com
+2016,4,Tesla,Model X,1000,http://evobsession.com
+2016,5,Tesla,Model X,1000,http://evobsession.com
+2016,6,Tesla,Model X,2000,http://evobsession.com
+2016,7,Tesla,Model X,1800,http://evobsession.com
+2016,8,Tesla,Model X,1800,http://evobsession.com
+2016,9,Tesla,Model X,2000,http://evobsession.com
+2016,10,Tesla,Model X,1800,http://evobsession.com
+2016,11,Tesla,Model X,1800,http://evobsession.com
+2016,12,Tesla,Model X,1900,http://evobsession.com
+2017,1,Tesla,Model S,2700,http://evobsession.com
+2017,2,Tesla,Model S,2700,http://evobsession.com
+2017,3,Tesla,Model S,2500,http://evobsession.com
+2017,4,Tesla,Model S,2600,http://evobsession.com
+2017,5,Tesla,Model S,2600,http://evobsession.com
+2017,6,Tesla,Model S,2312,http://evobsession.com
+2017,7,Tesla,Model S,2770,http://evobsession.com
+2017,8,Tesla,Model S,2700,http://evobsession.com
+2017,9,Tesla,Model S,3072,http://evobsession.com
+2017,10,Tesla,Model S,2700,http://evobsession.com
+2017,11,Tesla,Model S,2400,http://evobsession.com
+2017,12,Tesla,Model S,2500,http://evobsession.com
+2017,1,Tesla,Model X,1700,http://evobsession.com
+2017,2,Tesla,Model X,1700,http://evobsession.com
+2017,3,Tesla,Model X,1500,http://evobsession.com
+2017,4,Tesla,Model X,1500,http://evobsession.com
+2017,5,Tesla,Model X,1500,http://evobsession.com
+2017,6,Tesla,Model X,1773,http://evobsession.com
+2017,7,Tesla,Model X,1883,http://evobsession.com
+2017,8,Tesla,Model X,1800,http://evobsession.com
+2017,9,Tesla,Model X,3493,http://evobsession.com
+2017,10,Tesla,Model X,2300,http://evobsession.com
+2017,11,Tesla,Model X,2400,http://evobsession.com
+2017,12,Tesla,Model X,2500,http://evobsession.com
+2017,1,BMW,i3,382,http://evobsession.com
+2017,2,BMW,i3,318,http://evobsession.com
+2017,3,BMW,i3,703,http://evobsession.com
+2017,4,BMW,i3,516,http://evobsession.com
+2017,5,BMW,i3,506,http://evobsession.com
+2017,6,BMW,i3,567,http://evobsession.com
+2017,7,BMW,i3,601,http://evobsession.com
+2017,8,BMW,i3,504,http://evobsession.com
+2017,9,BMW,i3,538,http://evobsession.com
+2017,10,BMW,i3,686,http://evobsession.com
+2017,11,BMW,i3,283,http://evobsession.com
+2017,12,BMW,i3,672,http://evobsession.com
+2017,1,BMW,i8,50,http://evobsession.com
+2017,2,BMW,i8,58,http://evobsession.com
+2017,3,BMW,i8,49,http://evobsession.com
+2017,4,BMW,i8,23,http://evobsession.com
+2017,5,BMW,i8,18,http://evobsession.com
+2017,6,BMW,i8,22,http://evobsession.com
+2017,7,BMW,i8,55,http://evobsession.com
+2017,8,BMW,i8,29,http://evobsession.com
+2017,9,BMW,i8,27,http://evobsession.com
+2017,10,BMW,i8,33,http://evobsession.com
+2017,11,BMW,i8,44,http://evobsession.com
+2017,12,BMW,i8,80,http://evobsession.com
+2017,1,Chevrolet,Bolt,1162,http://evobsession.com
+2017,2,Chevrolet,Bolt,952,http://evobsession.com
+2017,3,Chevrolet,Bolt,978,http://evobsession.com
+2017,4,Chevrolet,Bolt,1292,http://evobsession.com
+2017,5,Chevrolet,Bolt,1566,http://evobsession.com
+2017,6,Chevrolet,Bolt,1642,http://evobsession.com
+2017,7,Chevrolet,Bolt,1971,http://evobsession.com
+2017,8,Chevrolet,Bolt,2107,http://evobsession.com
+2017,9,Chevrolet,Bolt,2632,http://evobsession.com
+2017,10,Chevrolet,Bolt,2781,http://evobsession.com
+2017,11,Chevrolet,Bolt,2987,http://evobsession.com
+2017,12,Chevrolet,Bolt,3227,http://evobsession.com
+2017,1,Ford,Focus,56,http://evobsession.com
+2017,2,Ford,Focus,228,http://evobsession.com
+2017,3,Ford,Focus,407,http://evobsession.com
+2017,4,Ford,Focus,120,http://evobsession.com
+2017,5,Ford,Focus,132,http://evobsession.com
+2017,6,Ford,Focus,110,http://evobsession.com
+2017,7,Ford,Focus,148,http://evobsession.com
+2017,8,Ford,Focus,131,http://evobsession.com
+2017,9,Ford,Focus,131,http://evobsession.com
+2017,10,Ford,Focus,115,http://evobsession.com
+2017,11,Ford,Focus,121,http://evobsession.com
+2017,12,Ford,Focus,113,http://evobsession.com
+2017,1,Nissan,Leaf,772,http://evobsession.com
+2017,2,Nissan,Leaf,1037,http://evobsession.com
+2017,3,Nissan,Leaf,1478,http://evobsession.com
+2017,4,Nissan,Leaf,1063,http://evobsession.com
+2017,5,Nissan,Leaf,1392,http://evobsession.com
+2017,6,Nissan,Leaf,1506,http://evobsession.com
+2017,7,Nissan,Leaf,1283,http://evobsession.com
+2017,8,Nissan,Leaf,1154,http://evobsession.com
+2017,9,Nissan,Leaf,1055,http://evobsession.com
+2017,10,Nissan,Leaf,213,http://evobsession.com
+2017,11,Nissan,Leaf,175,http://evobsession.com
+2017,12,Nissan,Leaf,102,http://evobsession.com
+2017,1,Volkswagen,e-Golf,332,http://evobsession.com
+2017,2,Volkswagen,e-Golf,293,http://evobsession.com
+2017,3,Volkswagen,e-Golf,342,http://evobsession.com
+2017,4,Volkswagen,e-Golf,307,http://evobsession.com
+2017,5,Volkswagen,e-Golf,381,http://evobsession.com
+2017,6,Volkswagen,e-Golf,232,http://evobsession.com
+2017,7,Volkswagen,e-Golf,308,http://evobsession.com
+2017,8,Volkswagen,e-Golf,317,http://evobsession.com
+2017,9,Volkswagen,e-Golf,187,http://evobsession.com
+2017,10,Volkswagen,e-Golf,203,http://evobsession.com
+2017,11,Volkswagen,e-Golf,289,http://evobsession.com
+2017,12,Volkswagen,e-Golf,343,http://evobsession.com
+2017,7,Tesla,Model 3,30,http://evobsession.com
+2017,8,Tesla,Model 3,100,http://evobsession.com
+2017,9,Tesla,Model 3,92,http://evobsession.com
+2017,10,Tesla,Model 3,200,http://evobsession.com
+2017,11,Tesla,Model 3,300,http://evobsession.com
+2017,12,Tesla,Model 3,1050,http://evobsession.com
+2017,1,Tesla,Model 3,2400,http://evobsession.com
+2017,2,Tesla,Model 3,3030,http://evobsession.com
+2018,1,Tesla,Model S,2300,http://evobsession.com
+2018,2,Tesla,Model S,2000,http://evobsession.com
+2018,1,Tesla,Model X,2200,http://evobsession.com
+2018,2,Tesla,Model X,1930,http://evobsession.com
+2018,1,BMW,i3,382,http://evobsession.com
+2018,2,BMW,i3,623,http://evobsession.com
+2018,1,Chevrolet,Bolt,1177,http://evobsession.com
+2018,2,Chevrolet,Bolt,1424,http://evobsession.com
+2018,1,Ford,Focus,70,http://evobsession.com
+2018,2,Ford,Focus,70,http://evobsession.com
+2018,1,Nissan,Leaf,150,http://evobsession.com
+2018,2,Nissan,Leaf,895,http://evobsession.com
+2018,1,Volkswagen,e-Golf,178,http://evobsession.com
+2018,2,Volkswagen,e-Golf,198,http://evobsession.com
+2018,1,Tesla,Model 3,2400,http://evobsession.com
+2018,2,Tesla,Model 3,3030,http://evobsession.com
+2018,1,Tesla,Model S,900,http://www.hybridcars.com
+2018,2,Tesla,Model S,1100,http://www.hybridcars.com
+2018,1,Tesla,Model X,700,http://www.hybridcars.com
+2018,2,Tesla,Model X,900,http://www.hybridcars.com
+2018,1,BMW,i3,382,http://www.hybridcars.com
+2018,2,BMW,i3,623,http://www.hybridcars.com
+2018,1,Chevrolet,Bolt,1177,http://www.hybridcars.com
+2018,2,Chevrolet,Bolt,1424,http://www.hybridcars.com
+2018,1,Ford,Focus,70,http://www.hybridcars.com
+2018,2,Ford,Focus,70,http://www.hybridcars.com
+2018,1,Nissan,Leaf,150,http://www.hybridcars.com
+2018,2,Nissan,Leaf,895,http://www.hybridcars.com
+2018,1,Volkswagen,e-Golf,178,http://www.hybridcars.com
+2018,2,Volkswagen,e-Golf,198,http://www.hybridcars.com
+2018,1,Tesla,Model 3,1900,http://www.hybridcars.com
+2018,2,Tesla,Model 3,2600,http://www.hybridcars.com
+2018,1,Fiat,500e,136,http://www.hybridcars.com
+2018,2,Fiat,500e,125,http://www.hybridcars.com
+2018,1,Honda,Clarity,203,http://www.hybridcars.com
+2018,2,Honda,Clarity,104,http://www.hybridcars.com
+2017,1,Tesla,Model S,1200,http://www.hybridcars.com
+2017,2,Tesla,Model S,1700,http://www.hybridcars.com
+2017,3,Tesla,Model S,3100,http://www.hybridcars.com
+2017,4,Tesla,Model S,1200,http://www.hybridcars.com
+2017,5,Tesla,Model S,1800,http://www.hybridcars.com
+2017,6,Tesla,Model S,2200,http://www.hybridcars.com
+2017,7,Tesla,Model S,1500,http://www.hybridcars.com
+2017,8,Tesla,Model S,2100,http://www.hybridcars.com
+2017,9,Tesla,Model S,4500,http://www.hybridcars.com
+2017,10,Tesla,Model S,1100,http://www.hybridcars.com
+2017,11,Tesla,Model S,1400,http://www.hybridcars.com
+2017,12,Tesla,Model S,4800,http://www.hybridcars.com
+2017,1,Tesla,Model X,1000,http://www.hybridcars.com
+2017,2,Tesla,Model X,800,http://www.hybridcars.com
+2017,3,Tesla,Model X,2500,http://www.hybridcars.com
+2017,4,Tesla,Model X,900,http://www.hybridcars.com
+2017,5,Tesla,Model X,1700,http://www.hybridcars.com
+2017,6,Tesla,Model X,2100,http://www.hybridcars.com
+2017,7,Tesla,Model X,1400,http://www.hybridcars.com
+2017,8,Tesla,Model X,1700,http://www.hybridcars.com
+2017,9,Tesla,Model X,3400,http://www.hybridcars.com
+2017,10,Tesla,Model X,900,http://www.hybridcars.com
+2017,11,Tesla,Model X,1800,http://www.hybridcars.com
+2017,12,Tesla,Model X,3400,http://www.hybridcars.com
+2017,1,BMW,i3,382,http://www.hybridcars.com
+2017,2,BMW,i3,318,http://www.hybridcars.com
+2017,3,BMW,i3,703,http://www.hybridcars.com
+2017,4,BMW,i3,516,http://www.hybridcars.com
+2017,5,BMW,i3,506,http://www.hybridcars.com
+2017,6,BMW,i3,567,http://www.hybridcars.com
+2017,7,BMW,i3,601,http://www.hybridcars.com
+2017,8,BMW,i3,504,http://www.hybridcars.com
+2017,9,BMW,i3,538,http://www.hybridcars.com
+2017,10,BMW,i3,686,http://www.hybridcars.com
+2017,11,BMW,i3,283,http://www.hybridcars.com
+2017,12,BMW,i3,672,http://www.hybridcars.com
+2017,1,Chevrolet,Bolt,1162,http://www.hybridcars.com
+2017,2,Chevrolet,Bolt,952,http://www.hybridcars.com
+2017,3,Chevrolet,Bolt,978,http://www.hybridcars.com
+2017,4,Chevrolet,Bolt,1292,http://www.hybridcars.com
+2017,5,Chevrolet,Bolt,1566,http://www.hybridcars.com
+2017,6,Chevrolet,Bolt,2642,http://www.hybridcars.com
+2017,7,Chevrolet,Bolt,1971,http://www.hybridcars.com
+2017,8,Chevrolet,Bolt,2107,http://www.hybridcars.com
+2017,9,Chevrolet,Bolt,2632,http://www.hybridcars.com
+2017,10,Chevrolet,Bolt,2781,http://www.hybridcars.com
+2017,11,Chevrolet,Bolt,2987,http://www.hybridcars.com
+2017,12,Chevrolet,Bolt,3227,http://www.hybridcars.com
+2017,1,Ford,Focus,56,http://www.hybridcars.com
+2017,2,Ford,Focus,228,http://www.hybridcars.com
+2017,3,Ford,Focus,407,http://www.hybridcars.com
+2017,4,Ford,Focus,125,http://www.hybridcars.com
+2017,5,Ford,Focus,132,http://www.hybridcars.com
+2017,6,Ford,Focus,110,http://www.hybridcars.com
+2017,7,Ford,Focus,148,http://www.hybridcars.com
+2017,8,Ford,Focus,131,http://www.hybridcars.com
+2017,9,Ford,Focus,131,http://www.hybridcars.com
+2017,10,Ford,Focus,115,http://www.hybridcars.com
+2017,11,Ford,Focus,121,http://www.hybridcars.com
+2017,12,Ford,Focus,113,http://www.hybridcars.com
+2017,1,Nissan,Leaf,772,http://www.hybridcars.com
+2017,2,Nissan,Leaf,1037,http://www.hybridcars.com
+2017,3,Nissan,Leaf,1478,http://www.hybridcars.com
+2017,4,Nissan,Leaf,1063,http://www.hybridcars.com
+2017,5,Nissan,Leaf,1392,http://www.hybridcars.com
+2017,6,Nissan,Leaf,1506,http://www.hybridcars.com
+2017,7,Nissan,Leaf,1283,http://www.hybridcars.com
+2017,8,Nissan,Leaf,1154,http://www.hybridcars.com
+2017,9,Nissan,Leaf,1055,http://www.hybridcars.com
+2017,10,Nissan,Leaf,213,http://www.hybridcars.com
+2017,11,Nissan,Leaf,175,http://www.hybridcars.com
+2017,12,Nissan,Leaf,102,http://www.hybridcars.com
+2017,1,Volkswagen,e-Golf,332,http://www.hybridcars.com
+2017,2,Volkswagen,e-Golf,293,http://www.hybridcars.com
+2017,3,Volkswagen,e-Golf,342,http://www.hybridcars.com
+2017,4,Volkswagen,e-Golf,307,http://www.hybridcars.com
+2017,5,Volkswagen,e-Golf,381,http://www.hybridcars.com
+2017,6,Volkswagen,e-Golf,232,http://www.hybridcars.com
+2017,7,Volkswagen,e-Golf,308,http://www.hybridcars.com
+2017,8,Volkswagen,e-Golf,317,http://www.hybridcars.com
+2017,9,Volkswagen,e-Golf,187,http://www.hybridcars.com
+2017,10,Volkswagen,e-Golf,202,http://www.hybridcars.com
+2017,11,Volkswagen,e-Golf,289,http://www.hybridcars.com
+2017,12,Volkswagen,e-Golf,343,http://www.hybridcars.com
+2017,7,Tesla,Model 3,30,http://www.hybridcars.com
+2017,8,Tesla,Model 3,70,http://www.hybridcars.com
+2017,9,Tesla,Model 3,120,http://www.hybridcars.com
+2017,10,Tesla,Model 3,150,http://www.hybridcars.com
+2017,11,Tesla,Model 3,350,http://www.hybridcars.com
+2017,12,Tesla,Model 3,1050,http://www.hybridcars.com
+2017,1,Fiat,500e,305,http://www.hybridcars.com
+2017,2,Fiat,500e,283,http://www.hybridcars.com
+2017,3,Fiat,500e,418,http://www.hybridcars.com
+2017,4,Fiat,500e,300,http://www.hybridcars.com
+2017,5,Fiat,500e,310,http://www.hybridcars.com
+2017,6,Fiat,500e,249,http://www.hybridcars.com
+2017,7,Fiat,500e,257,http://www.hybridcars.com
+2017,8,Fiat,500e,234,http://www.hybridcars.com
+2017,9,Fiat,500e,305,http://www.hybridcars.com
+2017,10,Fiat,500e,240,http://www.hybridcars.com
+2017,11,Fiat,500e,235,http://www.hybridcars.com
+2017,12,Fiat,500e,200,http://www.hybridcars.com
+2017,7,Honda,Clarity,34,http://www.hybridcars.com
+2017,9,Honda,Clarity,52,http://www.hybridcars.com
+2017,10,Honda,Clarity,34,http://www.hybridcars.com
+2017,11,Honda,Clarity,464,http://www.hybridcars.com
+2017,12,Honda,Clarity,527,http://www.hybridcars.com
+2016,1,Tesla,Model S,1300,http://www.hybridcars.com
+2016,2,Tesla,Model S,1900,http://www.hybridcars.com
+2016,3,Tesla,Model S,3000,http://www.hybridcars.com
+2016,4,Tesla,Model S,1700,http://www.hybridcars.com
+2016,5,Tesla,Model S,1500,http://www.hybridcars.com
+2016,6,Tesla,Model S,2800,http://www.hybridcars.com
+2016,7,Tesla,Model S,2400,http://www.hybridcars.com
+2016,8,Tesla,Model S,3200,http://www.hybridcars.com
+2016,9,Tesla,Model S,4100,http://www.hybridcars.com
+2016,10,Tesla,Model S,1200,http://www.hybridcars.com
+2016,11,Tesla,Model S,1800,http://www.hybridcars.com
+2016,12,Tesla,Model S,5300,http://www.hybridcars.com
+2016,1,Tesla,Model X,400,http://www.hybridcars.com
+2016,2,Tesla,Model X,500,http://www.hybridcars.com
+2016,3,Tesla,Model X,1500,http://www.hybridcars.com
+2016,4,Tesla,Model X,1500,http://www.hybridcars.com
+2016,5,Tesla,Model X,2000,http://www.hybridcars.com
+2016,6,Tesla,Model X,2000,http://www.hybridcars.com
+2016,7,Tesla,Model X,1500,http://www.hybridcars.com
+2016,8,Tesla,Model X,1900,http://www.hybridcars.com
+2016,9,Tesla,Model X,2600,http://www.hybridcars.com
+2016,10,Tesla,Model X,1000,http://www.hybridcars.com
+2016,11,Tesla,Model X,1400,http://www.hybridcars.com
+2016,12,Tesla,Model X,3300,http://www.hybridcars.com
+2016,1,Nissan,Leaf,755,http://www.hybridcars.com
+2016,2,Nissan,Leaf,930,http://www.hybridcars.com
+2016,3,Nissan,Leaf,1246,http://www.hybridcars.com
+2016,4,Nissan,Leaf,787,http://www.hybridcars.com
+2016,5,Nissan,Leaf,979,http://www.hybridcars.com
+2016,6,Nissan,Leaf,1096,http://www.hybridcars.com
+2016,7,Nissan,Leaf,1063,http://www.hybridcars.com
+2016,8,Nissan,Leaf,1066,http://www.hybridcars.com
+2016,9,Nissan,Leaf,1316,http://www.hybridcars.com
+2016,10,Nissan,Leaf,1412,http://www.hybridcars.com
+2016,11,Nissan,Leaf,1457,http://www.hybridcars.com
+2016,12,Nissan,Leaf,1899,http://www.hybridcars.com
+2016,1,BMW,i3,182,http://www.hybridcars.com
+2016,2,BMW,i3,248,http://www.hybridcars.com
+2016,3,BMW,i3,332,http://www.hybridcars.com
+2016,4,BMW,i3,814,http://www.hybridcars.com
+2016,5,BMW,i3,696,http://www.hybridcars.com
+2016,6,BMW,i3,608,http://www.hybridcars.com
+2016,7,BMW,i3,1479,http://www.hybridcars.com
+2016,8,BMW,i3,1013,http://www.hybridcars.com
+2016,9,BMW,i3,391,http://www.hybridcars.com
+2016,10,BMW,i3,442,http://www.hybridcars.com
+2016,11,BMW,i3,629,http://www.hybridcars.com
+2016,12,BMW,i3,791,http://www.hybridcars.com
+2016,1,Volkswagen,e-Golf,328,http://www.hybridcars.com
+2016,2,Volkswagen,e-Golf,198,http://www.hybridcars.com
+2016,3,Volkswagen,e-Golf,86,http://www.hybridcars.com
+2016,4,Volkswagen,e-Golf,326,http://www.hybridcars.com
+2016,5,Volkswagen,e-Golf,269,http://www.hybridcars.com
+2016,6,Volkswagen,e-Golf,248,http://www.hybridcars.com
+2016,7,Volkswagen,e-Golf,344,http://www.hybridcars.com
+2016,8,Volkswagen,e-Golf,454,http://www.hybridcars.com
+2016,9,Volkswagen,e-Golf,529,http://www.hybridcars.com
+2016,10,Volkswagen,e-Golf,407,http://www.hybridcars.com
+2016,11,Volkswagen,e-Golf,305,http://www.hybridcars.com
+2016,12,Volkswagen,e-Golf,443,http://www.hybridcars.com
+2016,1,Fiat,500e,217,http://www.hybridcars.com
+2016,2,Fiat,500e,195,http://www.hybridcars.com
+2016,3,Fiat,500e,373,http://www.hybridcars.com
+2016,4,Fiat,500e,372,http://www.hybridcars.com
+2016,5,Fiat,500e,388,http://www.hybridcars.com
+2016,6,Fiat,500e,278,http://www.hybridcars.com
+2016,7,Fiat,500e,274,http://www.hybridcars.com
+2016,8,Fiat,500e,311,http://www.hybridcars.com
+2016,9,Fiat,500e,370,http://www.hybridcars.com
+2016,10,Fiat,500e,319,http://www.hybridcars.com
+2016,11,Fiat,500e,287,http://www.hybridcars.com
+2016,12,Fiat,500e,353,http://www.hybridcars.com
+2016,1,Ford,Focus,66,http://www.hybridcars.com
+2016,2,Ford,Focus,81,http://www.hybridcars.com
+2016,3,Ford,Focus,110,http://www.hybridcars.com
+2016,4,Ford,Focus,81,http://www.hybridcars.com
+2016,5,Ford,Focus,54,http://www.hybridcars.com
+2016,6,Ford,Focus,54,http://www.hybridcars.com
+2016,7,Ford,Focus,58,http://www.hybridcars.com
+2016,8,Ford,Focus,75,http://www.hybridcars.com
+2016,9,Ford,Focus,82,http://www.hybridcars.com
+2016,10,Ford,Focus,73,http://www.hybridcars.com
+2016,11,Ford,Focus,66,http://www.hybridcars.com
+2016,12,Ford,Focus,101,http://www.hybridcars.com
+2016,12,Chevrolet,Bolt,579,http://www.hybridcars.com
+2018,1,Tesla,Model S,800,https://insideevs.com
+2018,2,Tesla,Model S,1125,https://insideevs.com
+2018,3,Tesla,Model S,3375,https://insideevs.com
+2018,1,Tesla,Model X,700,https://insideevs.com
+2018,2,Tesla,Model X,975,https://insideevs.com
+2018,3,Tesla,Model X,2825,https://insideevs.com
+2018,1,BMW,i3,382,https://insideevs.com
+2018,2,BMW,i3,623,https://insideevs.com
+2018,3,BMW,i3,992,https://insideevs.com
+2018,1,BMW,i8,32,https://insideevs.com
+2018,2,BMW,i8,39,https://insideevs.com
+2018,3,BMW,i8,47,https://insideevs.com
+2018,1,Chevrolet,Bolt,1177,https://insideevs.com
+2018,2,Chevrolet,Bolt,1424,https://insideevs.com
+2018,3,Chevrolet,Bolt,1774,https://insideevs.com
+2018,1,Ford,Focus,70,https://insideevs.com
+2018,2,Ford,Focus,73,https://insideevs.com
+2018,3,Ford,Focus,137,https://insideevs.com
+2018,1,Nissan,Leaf,150,https://insideevs.com
+2018,2,Nissan,Leaf,895,https://insideevs.com
+2018,3,Nissan,Leaf,1500,https://insideevs.com
+2018,1,Volkswagen,e-Golf,178,https://insideevs.com
+2018,2,Volkswagen,e-Golf,198,https://insideevs.com
+2018,3,Volkswagen,e-Golf,164,https://insideevs.com
+2018,1,Tesla,Model 3,1875,https://insideevs.com
+2018,2,Tesla,Model 3,2485,https://insideevs.com
+2018,3,Tesla,Model 3,3820,https://insideevs.com
+2018,1,Fiat,500e,210,https://insideevs.com
+2018,2,Fiat,500e,235,https://insideevs.com
+2018,3,Fiat,500e,285,https://insideevs.com
+2018,1,Honda,Clarity,203,https://insideevs.com
+2018,2,Honda,Clarity,104,https://insideevs.com
+2018,3,Honda,Clarity,48,https://insideevs.com
+2017,1,Tesla,Model S,900,https://insideevs.com
+2017,2,Tesla,Model S,1750,https://insideevs.com
+2017,3,Tesla,Model S,3450,https://insideevs.com
+2017,4,Tesla,Model S,1125,https://insideevs.com
+2017,5,Tesla,Model S,1620,https://insideevs.com
+2017,6,Tesla,Model S,2350,https://insideevs.com
+2017,7,Tesla,Model S,1425,https://insideevs.com
+2017,8,Tesla,Model S,2150,https://insideevs.com
+2017,9,Tesla,Model S,4860,https://insideevs.com
+2017,10,Tesla,Model S,1120,https://insideevs.com
+2017,11,Tesla,Model S,1335,https://insideevs.com
+2017,12,Tesla,Model S,4975,https://insideevs.com
+2017,1,Tesla,Model X,750,https://insideevs.com
+2017,2,Tesla,Model X,800,https://insideevs.com
+2017,3,Tesla,Model X,2750,https://insideevs.com
+2017,4,Tesla,Model X,715,https://insideevs.com
+2017,5,Tesla,Model X,1730,https://insideevs.com
+2017,6,Tesla,Model X,2200,https://insideevs.com
+2017,7,Tesla,Model X,1650,https://insideevs.com
+2017,8,Tesla,Model X,1575,https://insideevs.com
+2017,9,Tesla,Model X,3120,https://insideevs.com
+2017,10,Tesla,Model X,850,https://insideevs.com
+2017,11,Tesla,Model X,1875,https://insideevs.com
+2017,12,Tesla,Model X,3300,https://insideevs.com
+2017,1,BMW,i3,382,https://insideevs.com
+2017,2,BMW,i3,318,https://insideevs.com
+2017,3,BMW,i3,703,https://insideevs.com
+2017,4,BMW,i3,516,https://insideevs.com
+2017,5,BMW,i3,506,https://insideevs.com
+2017,6,BMW,i3,567,https://insideevs.com
+2017,7,BMW,i3,601,https://insideevs.com
+2017,8,BMW,i3,504,https://insideevs.com
+2017,9,BMW,i3,538,https://insideevs.com
+2017,10,BMW,i3,686,https://insideevs.com
+2017,11,BMW,i3,283,https://insideevs.com
+2017,12,BMW,i3,672,https://insideevs.com
+2017,1,BMW,i8,50,https://insideevs.com
+2017,2,BMW,i8,58,https://insideevs.com
+2017,3,BMW,i8,49,https://insideevs.com
+2017,4,BMW,i8,23,https://insideevs.com
+2017,5,BMW,i8,18,https://insideevs.com
+2017,6,BMW,i8,22,https://insideevs.com
+2017,7,BMW,i8,55,https://insideevs.com
+2017,8,BMW,i8,29,https://insideevs.com
+2017,9,BMW,i8,27,https://insideevs.com
+2017,10,BMW,i8,33,https://insideevs.com
+2017,11,BMW,i8,44,https://insideevs.com
+2017,12,BMW,i8,80,https://insideevs.com
+2017,1,Chevrolet,Bolt,1162,https://insideevs.com
+2017,2,Chevrolet,Bolt,952,https://insideevs.com
+2017,3,Chevrolet,Bolt,978,https://insideevs.com
+2017,4,Chevrolet,Bolt,1292,https://insideevs.com
+2017,5,Chevrolet,Bolt,1566,https://insideevs.com
+2017,6,Chevrolet,Bolt,1642,https://insideevs.com
+2017,7,Chevrolet,Bolt,1971,https://insideevs.com
+2017,8,Chevrolet,Bolt,2107,https://insideevs.com
+2017,9,Chevrolet,Bolt,2632,https://insideevs.com
+2017,10,Chevrolet,Bolt,2781,https://insideevs.com
+2017,11,Chevrolet,Bolt,2987,https://insideevs.com
+2017,12,Chevrolet,Bolt,3227,https://insideevs.com
+2017,1,Ford,Focus,56,https://insideevs.com
+2017,2,Ford,Focus,228,https://insideevs.com
+2017,3,Ford,Focus,407,https://insideevs.com
+2017,4,Ford,Focus,125,https://insideevs.com
+2017,5,Ford,Focus,132,https://insideevs.com
+2017,6,Ford,Focus,110,https://insideevs.com
+2017,7,Ford,Focus,148,https://insideevs.com
+2017,8,Ford,Focus,131,https://insideevs.com
+2017,9,Ford,Focus,131,https://insideevs.com
+2017,10,Ford,Focus,115,https://insideevs.com
+2017,11,Ford,Focus,121,https://insideevs.com
+2017,12,Ford,Focus,113,https://insideevs.com
+2017,1,Nissan,Leaf,772,https://insideevs.com
+2017,2,Nissan,Leaf,1037,https://insideevs.com
+2017,3,Nissan,Leaf,1478,https://insideevs.com
+2017,4,Nissan,Leaf,1063,https://insideevs.com
+2017,5,Nissan,Leaf,1392,https://insideevs.com
+2017,6,Nissan,Leaf,1506,https://insideevs.com
+2017,7,Nissan,Leaf,1283,https://insideevs.com
+2017,8,Nissan,Leaf,1154,https://insideevs.com
+2017,9,Nissan,Leaf,1055,https://insideevs.com
+2017,10,Nissan,Leaf,213,https://insideevs.com
+2017,11,Nissan,Leaf,175,https://insideevs.com
+2017,12,Nissan,Leaf,102,https://insideevs.com
+2017,1,Volkswagen,e-Golf,332,https://insideevs.com
+2017,2,Volkswagen,e-Golf,293,https://insideevs.com
+2017,3,Volkswagen,e-Golf,342,https://insideevs.com
+2017,4,Volkswagen,e-Golf,307,https://insideevs.com
+2017,5,Volkswagen,e-Golf,381,https://insideevs.com
+2017,6,Volkswagen,e-Golf,232,https://insideevs.com
+2017,7,Volkswagen,e-Golf,308,https://insideevs.com
+2017,8,Volkswagen,e-Golf,317,https://insideevs.com
+2017,9,Volkswagen,e-Golf,187,https://insideevs.com
+2017,10,Volkswagen,e-Golf,203,https://insideevs.com
+2017,11,Volkswagen,e-Golf,289,https://insideevs.com
+2017,12,Volkswagen,e-Golf,343,https://insideevs.com
+2017,7,Tesla,Model 3,30,https://insideevs.com
+2017,8,Tesla,Model 3,75,https://insideevs.com
+2017,9,Tesla,Model 3,117,https://insideevs.com
+2017,10,Tesla,Model 3,145,https://insideevs.com
+2017,11,Tesla,Model 3,345,https://insideevs.com
+2017,12,Tesla,Model 3,1060,https://insideevs.com
+2017,1,Fiat,500e,752,https://insideevs.com
+2017,2,Fiat,500e,590,https://insideevs.com
+2017,3,Fiat,500e,785,https://insideevs.com
+2017,4,Fiat,500e,541,https://insideevs.com
+2017,5,Fiat,500e,473,https://insideevs.com
+2017,6,Fiat,500e,359,https://insideevs.com
+2017,7,Fiat,500e,395,https://insideevs.com
+2017,8,Fiat,500e,290,https://insideevs.com
+2017,9,Fiat,500e,285,https://insideevs.com
+2017,10,Fiat,500e,310,https://insideevs.com
+2017,11,Fiat,500e,215,https://insideevs.com
+2017,12,Fiat,500e,385,https://insideevs.com
+2017,7,Honda,Clarity,34,https://insideevs.com
+2017,8,Honda,Clarity,15,https://insideevs.com
+2017,9,Honda,Clarity,52,https://insideevs.com
+2017,10,Honda,Clarity,34,https://insideevs.com
+2017,11,Honda,Clarity,450,https://insideevs.com
+2017,12,Honda,Clarity,527,https://insideevs.com
+2016,1,Tesla,Model S,850,https://insideevs.com
+2016,2,Tesla,Model S,1550,https://insideevs.com
+2016,3,Tesla,Model S,3990,https://insideevs.com
+2016,4,Tesla,Model S,800,https://insideevs.com
+2016,5,Tesla,Model S,1200,https://insideevs.com
+2016,6,Tesla,Model S,3700,https://insideevs.com
+2016,7,Tesla,Model S,1954,https://insideevs.com
+2016,8,Tesla,Model S,2852,https://insideevs.com
+2016,9,Tesla,Model S,4350,https://insideevs.com
+2016,10,Tesla,Model S,700,https://insideevs.com
+2016,11,Tesla,Model S,1100,https://insideevs.com
+2016,12,Tesla,Model S,5850,https://insideevs.com
+2016,1,Tesla,Model X,996,https://insideevs.com
+2016,2,Tesla,Model X,1126,https://insideevs.com
+2016,3,Tesla,Model X,1865,https://insideevs.com
+2016,4,Tesla,Model X,1983,https://insideevs.com
+2016,5,Tesla,Model X,1901,https://insideevs.com
+2016,6,Tesla,Model X,1937,https://insideevs.com
+2016,7,Tesla,Model X,2406,https://insideevs.com
+2016,8,Tesla,Model X,2081,https://insideevs.com
+2016,9,Tesla,Model X,2031,https://insideevs.com
+2016,10,Tesla,Model X,2191,https://insideevs.com
+2016,11,Tesla,Model X,2531,https://insideevs.com
+2016,12,Tesla,Model X,3691,https://insideevs.com
+2016,1,Nissan,Leaf,755,https://insideevs.com
+2016,2,Nissan,Leaf,930,https://insideevs.com
+2016,3,Nissan,Leaf,1246,https://insideevs.com
+2016,4,Nissan,Leaf,787,https://insideevs.com
+2016,5,Nissan,Leaf,979,https://insideevs.com
+2016,6,Nissan,Leaf,1096,https://insideevs.com
+2016,7,Nissan,Leaf,1063,https://insideevs.com
+2016,8,Nissan,Leaf,1066,https://insideevs.com
+2016,9,Nissan,Leaf,1316,https://insideevs.com
+2016,10,Nissan,Leaf,1412,https://insideevs.com
+2016,11,Nissan,Leaf,1457,https://insideevs.com
+2016,12,Nissan,Leaf,1899,https://insideevs.com
+2016,1,Fiat,500e,305,https://insideevs.com
+2016,2,Fiat,500e,210,https://insideevs.com
+2016,3,Fiat,500e,455,https://insideevs.com
+2016,4,Fiat,500e,395,https://insideevs.com
+2016,5,Fiat,500e,425,https://insideevs.com
+2016,6,Fiat,500e,280,https://insideevs.com
+2016,7,Fiat,500e,225,https://insideevs.com
+2016,8,Fiat,500e,360,https://insideevs.com
+2016,9,Fiat,500e,690,https://insideevs.com
+2016,10,Fiat,500e,745,https://insideevs.com
+2016,11,Fiat,500e,590,https://insideevs.com
+2016,12,Fiat,500e,650,https://insideevs.com
+2016,1,BMW,i3,182,https://insideevs.com
+2016,2,BMW,i3,248,https://insideevs.com
+2016,3,BMW,i3,332,https://insideevs.com
+2016,4,BMW,i3,814,https://insideevs.com
+2016,5,BMW,i3,696,https://insideevs.com
+2016,6,BMW,i3,608,https://insideevs.com
+2016,7,BMW,i3,1479,https://insideevs.com
+2016,8,BMW,i3,1013,https://insideevs.com
+2016,9,BMW,i3,391,https://insideevs.com
+2016,10,BMW,i3,442,https://insideevs.com
+2016,11,BMW,i3,629,https://insideevs.com
+2016,12,BMW,i3,791,https://insideevs.com
+2016,1,Volkswagen,e-Golf,328,https://insideevs.com
+2016,2,Volkswagen,e-Golf,198,https://insideevs.com
+2016,3,Volkswagen,e-Golf,86,https://insideevs.com
+2016,4,Volkswagen,e-Golf,326,https://insideevs.com
+2016,5,Volkswagen,e-Golf,269,https://insideevs.com
+2016,6,Volkswagen,e-Golf,248,https://insideevs.com
+2016,7,Volkswagen,e-Golf,344,https://insideevs.com
+2016,8,Volkswagen,e-Golf,454,https://insideevs.com
+2016,9,Volkswagen,e-Golf,529,https://insideevs.com
+2016,10,Volkswagen,e-Golf,407,https://insideevs.com
+2016,11,Volkswagen,e-Golf,305,https://insideevs.com
+2016,12,Volkswagen,e-Golf,443,https://insideevs.com
+2016,1,Ford,Focus,66,https://insideevs.com
+2016,2,Ford,Focus,81,https://insideevs.com
+2016,3,Ford,Focus,110,https://insideevs.com
+2016,4,Ford,Focus,81,https://insideevs.com
+2016,5,Ford,Focus,54,https://insideevs.com
+2016,6,Ford,Focus,54,https://insideevs.com
+2016,7,Ford,Focus,58,https://insideevs.com
+2016,8,Ford,Focus,75,https://insideevs.com
+2016,9,Ford,Focus,82,https://insideevs.com
+2016,10,Ford,Focus,73,https://insideevs.com
+2016,11,Ford,Focus,66,https://insideevs.com
+2016,12,Ford,Focus,101,https://insideevs.com
+2016,1,Kia,Soul,81,https://insideevs.com
+2016,2,Kia,Soul,60,https://insideevs.com
+2016,3,Kia,Soul,79,https://insideevs.com
+2016,4,Kia,Soul,139,https://insideevs.com
+2016,5,Kia,Soul,120,https://insideevs.com
+2016,6,Kia,Soul,134,https://insideevs.com
+2016,7,Kia,Soul,179,https://insideevs.com
+2016,8,Kia,Soul,153,https://insideevs.com
+2016,9,Kia,Soul,217,https://insideevs.com
+2016,10,Kia,Soul,190,https://insideevs.com
+2016,11,Kia,Soul,179,https://insideevs.com
+2016,12,Kia,Soul,197,https://insideevs.com
+2016,1,BMW,i8,32,https://insideevs.com
+2016,2,BMW,i8,54,https://insideevs.com
+2016,3,BMW,i8,89,https://insideevs.com
+2016,4,BMW,i8,130,https://insideevs.com
+2016,5,BMW,i8,146,https://insideevs.com
+2016,6,BMW,i8,169,https://insideevs.com
+2016,7,BMW,i8,166,https://insideevs.com
+2016,8,BMW,i8,145,https://insideevs.com
+2016,9,BMW,i8,158,https://insideevs.com
+2016,10,BMW,i8,199,https://insideevs.com
+2016,11,BMW,i8,173,https://insideevs.com
+2016,12,BMW,i8,133,https://insideevs.com
+2016,1,Smart,ED,48,https://insideevs.com
+2016,2,Smart,ED,54,https://insideevs.com
+2016,3,Smart,ED,70,https://insideevs.com
+2016,4,Smart,ED,66,https://insideevs.com
+2016,5,Smart,ED,75,https://insideevs.com
+2016,6,Smart,ED,53,https://insideevs.com
+2016,7,Smart,ED,62,https://insideevs.com
+2016,8,Smart,ED,55,https://insideevs.com
+2016,9,Smart,ED,44,https://insideevs.com
+2016,10,Smart,ED,43,https://insideevs.com
+2016,11,Smart,ED,47,https://insideevs.com
+2016,12,Smart,ED,40,https://insideevs.com
+2016,1,Chevrolet,Spark,139,https://insideevs.com
+2016,2,Chevrolet,Spark,216,https://insideevs.com
+2016,3,Chevrolet,Spark,252,https://insideevs.com
+2016,4,Chevrolet,Spark,419,https://insideevs.com
+2016,5,Chevrolet,Spark,394,https://insideevs.com
+2016,6,Chevrolet,Spark,359,https://insideevs.com
+2016,7,Chevrolet,Spark,333,https://insideevs.com
+2016,8,Chevrolet,Spark,292,https://insideevs.com
+2016,9,Chevrolet,Spark,315,https://insideevs.com
+2016,10,Chevrolet,Spark,260,https://insideevs.com
+2016,11,Chevrolet,Spark,39,https://insideevs.com
+2016,12,Chevrolet,Spark,17,https://insideevs.com
